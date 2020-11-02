@@ -1,4 +1,6 @@
-.container{    
+.container{
+    padding:20px 0;
     display:flex;
     justify-content: space-evenly;
+    background-color: whitesmoke;
 }
